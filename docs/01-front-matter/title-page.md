@@ -4,9 +4,9 @@
 
 
 **Project Title**  
-**Team Members:** Name 1, Name 2, Name 3  
-**Department:** College / Program  
-**Date:** YYYY-MM-DD
+**Team Members:** Christian Arcilla, Adrian Medina, Denmark Sigue, Jondel Vargas, Francine España, Kathleen Bacuño  
+**Department:** College of Computer Studies
+**Date:** 2025-10-16
 
 
 ---
