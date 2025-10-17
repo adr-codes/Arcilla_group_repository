@@ -36,7 +36,15 @@ It helps create a more connected, responsive, and efficient community through au
 
 ---
 
-## 👥 Authors
+## Installation Steps
+
+---
+
+## Screenshots
+
+---
+
+## Authors
 
 - **Christian Arcilla**  
 - **Adrian Medina**  
@@ -49,7 +57,7 @@ _BS Computer Science – Mabini Colleges Inc._
 
 ---
 
-## 🗒️ Notes
+## Notes
 
 This file serves as the official `README.md` for the Barangay Management Information System (Barangay MIS).  
 It includes a brief description, objectives, and feature overview of the project created for our **thesis proposal**.
