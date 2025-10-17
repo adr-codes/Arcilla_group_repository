@@ -1,17 +1,39 @@
-# Thesis Markdown Template
+# Barangay MIS (Management Information System)
 
-This repository is a starter structure for writing a thesis entirely in Markdown, hosted on GitHub, and published as a small documentation site via **MkDocs**.
+Barangay MIS is a digital system designed to streamline barangay operations, enhance transparency, and provide residents with convenient access to barangay services.  
+It aims to create a more connected, responsive, and efficient community through automation and centralized data management.
 
-## How to use
-1. Replace placeholder content in each `.md` file.
-2. Keep sections modular (one file per page) in their respective chapter folders.
-3. Use `index.md` as the entry point. Links already point to each section.
-4. (Optional) Build a site with MkDocs:
-   ```bash
-   pip install mkdocs mkdocs-material
-   mkdocs serve        # local preview at http://127.0.0.1:8000
-   mkdocs build        # outputs site/ directory
-   ```
+---
 
-## Folder layout
-See the tree below or open `mkdocs.yml` to adjust the sidebar navigation.
+## Features
+
+- **Resident Profiling and Search**  
+  Store and manage detailed resident information for easier tracking and searching.
+
+- **Automated Document Generation**  
+  Automatically generate official barangay documents such as Barangay Clearance and Residency Certificates.
+
+- **Incident Reporting and Tracking**  
+  Record and monitor incidents within the barangay to ensure timely action and proper documentation.
+
+- **Announcement Feed**  
+  Disseminate barangay announcements, updates, and polls to keep residents informed and engaged.
+
+- **Push Notifications**  
+  Instantly notify residents about new posts, announcements, and important updates.
+
+---
+
+## 👥 Authors
+
+- Christian Arcilla
+- Adrian Medina  
+- Johndel Vargas  
+- Denmark Sigue  
+- Francine España  
+- Kathleen Bacuño  
+
+*BS Computer Science – Mabini Colleges Inc.*
+
+---
+*This README serves as an overview of our Barangay Management Information System project, created for our thesis proposal.*
